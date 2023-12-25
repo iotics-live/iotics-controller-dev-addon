@@ -8,8 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## TODO
 - Make only one HA configuration possible
 
-## TODO
-- Make only one HA configuration possible
+## [0.11.46] - 2023-12-25
+### Changed
+- Add import from Home Assistant (Rooms & Devices, Users, Automations)
+- Re-work websocket handling
 
 ## [0.11.45] - 2023-10-22
 ### Changed
