@@ -6,8 +6,39 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## TODO
-- Make only one HA configuration possible
+- Remove old HA websockets code
 
+## [0.11.52] - 2023-12-29
+### Changed
+- Fix issue - Incorrect handling of default room category in edit mode
+- Fix issue - Swagger UI not working
+- Cleanup of previous version of HA websocket implementation
+
+## [0.11.51] - 2023-12-28
+### Changed
+- Fix issue - Laundry room category is not detected during the import
+- Fix issue - Room is not assigned to location admin by default
+- Improve room category detection for import
+
+## [0.11.50] - 2023-12-27
+### Changed
+- Fix issue - login to HA with username/password stopped working
+- Improve connect to HA websocket connection handling
+
+## [0.11.49] - 2023-12-26
+### Changed
+- Fix issue with websocket handling with no HA configured
+
+## [0.11.48] - 2023-12-26
+### Changed
+- Fix issue with websocket handling with no HA configured
+
+## [0.11.47] - 2023-12-26
+### Changed
+- Fix issue with missing column in Room
+- Fix issue with HA Supervisor info deserialization
+- Improve category and device icon detection when importing rooms
+  
 ## [0.11.46] - 2023-12-25
 ### Changed
 - Add import from Home Assistant (Rooms & Devices, Users, Automations)
