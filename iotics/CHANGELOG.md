@@ -8,6 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## TODO
 - Remove old HA websockets code
 
+## [0.11.54] - 2024-01-20
+### Changed
+- Remove Muslim Prayer Athan, Hourly Chimes and Sound Reminders automations
+
+## [0.11.53] - 2023-12-30
+### Changed
+- Enable device management in Import Rooms & Devices page
+
 ## [0.11.52] - 2023-12-29
 ### Changed
 - Fix issue - Incorrect handling of default room category in edit mode
