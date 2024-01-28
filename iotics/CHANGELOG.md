@@ -6,7 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## TODO
-- Remove old HA websockets code
+
+## [0.11.58] - 2024-01-28
+### Changed
+- Remove unused code for Mulsim Prayer automations
+
+## [0.11.57] - 2024-01-28
+### Changed
+- Change navigation link to Edit Room dialog on Import Rooms page
+- Allow Edit Device gialog for not imported devices
+- Fix issue - duplicate Admin
+- Fix issue - Home Assistant power sensor is not showing
+
+## [0.11.56] - 2024-01-21
+### Changed
+- Add Home Assistant Id column to Import Rooms UI
+
+## [0.11.55] - 2024-01-21
+### Changed
+- Remove option to import automations from Add Automation UI
 
 ## [0.11.54] - 2024-01-20
 ### Changed
