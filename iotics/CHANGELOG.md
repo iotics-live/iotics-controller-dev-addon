@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.11.59] - 2024-02-04
+### Changed
+- Reload Home Assistant configurations instead of server restart
+
 ## [0.11.58] - 2024-01-28
 ### Changed
 - Remove unused code for Mulsim Prayer automations
