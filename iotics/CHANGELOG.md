@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.11.60] - 2024-02-24
+### Changed
+- Use custom device name on Import page if possible
+- Fix issue - avoid HA restart on login
+
 ## [0.11.59] - 2024-02-04
 ### Changed
 - Reload Home Assistant configurations instead of server restart
