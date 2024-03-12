@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.1] - 2024-03-03
+### Changed
+- Switch to .NET 8 and update all Nuget packages
+
 ## [0.11.60] - 2024-02-24
 ### Changed
 - Use custom device name on Import page if possible
