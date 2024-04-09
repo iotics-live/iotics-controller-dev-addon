@@ -7,6 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.4] - 2024-04-09
+### Changed
+- Another attempt to fix installation issues
+
+## [0.12.3] - 2024-03-29
+### Changed
+- Fix for run.sh following .NET 8 update
+
+## [0.12.2] - 2024-03-17
+### Changed
+- Add HomeAssistantAreaId to Rooms response
+- Update Nuget packages
+
 ## [0.12.1] - 2024-03-03
 ### Changed
 - Switch to .NET 8 and update all Nuget packages
