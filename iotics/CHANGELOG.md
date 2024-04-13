@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.5] - 2024-04-13
+### Changed
+- Fix issue - restore database from JSON files
+
 ## [0.12.4] - 2024-04-09
 ### Changed
 - Another attempt to fix installation issues
