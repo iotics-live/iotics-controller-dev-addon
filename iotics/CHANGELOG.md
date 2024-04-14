@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.7] - 2024-04-14
+### Changed
+- Fix issue - add Home Assistant EntityId to automation responses
+
+## [0.12.6] - 2024-04-14
+### Changed
+- Fix issue - failure to create new theme
+
 ## [0.12.5] - 2024-04-13
 ### Changed
 - Fix issue - restore database from JSON files
