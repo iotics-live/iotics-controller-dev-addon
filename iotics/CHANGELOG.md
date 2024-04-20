@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.8] - 2024-04-20
+### Changed
+- Fix issue - try to fix issue when updating location name
+- Fix issue - update location name in the notifications
+
 ## [0.12.7] - 2024-04-14
 ### Changed
 - Fix issue - add Home Assistant EntityId to automation responses
