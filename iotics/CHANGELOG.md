@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.9] - 2024-04-21
+### Changed
+- Fix issue - allow import multiple entities for the same device
+
 ## [0.12.8] - 2024-04-20
 ### Changed
 - Fix issue - try to fix issue when updating location name
