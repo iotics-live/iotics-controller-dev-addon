@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.10] - 2024-05-04
+### Changed
+- Add additional logging during automation creation
+- Remove validation of deletion for rooms, pages, cards and groups
+
 ## [0.12.9] - 2024-04-21
 ### Changed
 - Fix issue - allow import multiple entities for the same device
