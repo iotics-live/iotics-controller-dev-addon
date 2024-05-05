@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.11] - 2024-05-05
+### Changed
+- Disable device in case of many failed notifications
+
 ## [0.12.10] - 2024-05-04
 ### Changed
 - Add additional logging during automation creation
