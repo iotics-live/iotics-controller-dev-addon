@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.14] - 2024-05-19
+### Changed
+- Set log level for "System" events to Warn
+
 ## [0.12.13] - 2024-05-19
 ### Changed
 - Set size for duplicate notifications check from 10k to 1k
