@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.12] - 2024-05-19
+### Changed
+- Update duplicate notifications check (attempt to fix high RAM usage) 
+- Use log level Info
+
 ## [0.12.11] - 2024-05-05
 ### Changed
 - Disable device in case of many failed notifications
