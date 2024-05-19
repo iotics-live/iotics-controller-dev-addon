@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.13] - 2024-05-19
+### Changed
+- Set size for duplicate notifications check from 10k to 1k
+- Set log level for "Microsoft" events to Warn
+
 ## [0.12.12] - 2024-05-19
 ### Changed
 - Update duplicate notifications check (attempt to fix high RAM usage) 
