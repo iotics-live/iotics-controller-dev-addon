@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.15] - 2024-06-08
+### Changed
+- Replace ConcurrentDisctionary with MemoryCache in EntityStateChangeStorage
+- Adjust some log levels
+- Minor syntax changes
+
 ## [0.12.14] - 2024-05-19
 ### Changed
 - Set log level for "System" events to Warn
