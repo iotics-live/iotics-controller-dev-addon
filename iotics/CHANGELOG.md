@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.16] - 2024-06-13
+### Changed
+- Try to optimize memory usage WsClient
+
 ## [0.12.15] - 2024-06-08
 ### Changed
 - Replace ConcurrentDisctionary with MemoryCache in EntityStateChangeStorage
