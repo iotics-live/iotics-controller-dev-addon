@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.18] - 2024-07-13
+### Changed
+- Add API to get Iotics CPU and RAM consumption
+
 ## [0.12.17] - 2024-07-13
 ### Changed
 - Add feature flag to disable subscription to Home Assistant events
