@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.20] - 2024-07-20
+### Changed
+- Add API to restart Iotics add-on
+- Delete database back folder after restore is done
+- Add configuration to enable DeviceUptimeJob (disable it to check RAM usage)
+- Add configuration to enable HomeAssistantAutomationCurrentStateJob (disable it to check RAM usage)
+- Log messages as errors in HomeAssistantAutomationService
+- 
 ## [0.12.19] - 2024-07-14
 ### Changed
 - Disable device uptime job to check RAM issue
