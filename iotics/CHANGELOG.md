@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.22] - 2024-07-28
+### Changed
+- Update logging configuration
+
 ## [0.12.21] - 2024-07-21
 ### Changed
 - Enable device uptime job
