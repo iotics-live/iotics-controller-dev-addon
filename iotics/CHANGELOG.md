@@ -7,13 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.23] - 2024-08-10
+### Changed
+- Preserve consistency of cards' name, icon and power consumption entityId by entityId
+
 ## [0.12.22] - 2024-07-28
 ### Changed
 - Update logging configuration
-
-## [0.12.21] - 2024-07-21
-### Changed
-- Enable device uptime job
 
 ## [0.12.20] - 2024-07-20
 ### Changed
