@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.24] - 2024-08-17
+### Changed
+- Create database back before any server action (restart, update, etc.)
+- Change log level from Warn to Info
+
 ## [0.12.23] - 2024-08-10
 ### Changed
 - Preserve consistency of cards' name, icon and power consumption entityId by entityId
