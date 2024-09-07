@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.25] - 2024-09-07
+### Changed
+- Add automatic group management in rooms
+
 ## [0.12.24] - 2024-08-17
 ### Changed
 - Create database back before any server action (restart, update, etc.)
