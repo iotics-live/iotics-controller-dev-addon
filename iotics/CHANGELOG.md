@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.26] - 2024-09-08
+### Changed
+- Fix add-on installation script (issue with database clean-up on restart)
+
 ## [0.12.25] - 2024-09-07
 ### Changed
 - Add automatic group management in rooms
