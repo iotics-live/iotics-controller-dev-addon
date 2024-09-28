@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.27] - 2024-09-28
+### Changed
+- Automatically add connection to a newly added location
+
 ## [0.12.26] - 2024-09-08
 ### Changed
 - Fix add-on installation script (issue with database clean-up on restart)
