@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add additional fields to logs response
 - Fix HA automation response breaking change
 
+## [0.12.28] - 2024-10-06
+### Changed
+- Initialize websocket connection for a newly added location
+
 ## [0.12.27] - 2024-09-28
 ### Changed
 - Automatically add connection to a newly added location
