@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.31] - 2024-11-03
+### Changed
+- Update logs (groups)
+
+## [0.12.30] - 2024-11-03
+### Changed
+- Update logs (part 1)
+
 ## [0.12.29] - 2024-10-26
 ### Changed
 - Add additional fields to logs response
