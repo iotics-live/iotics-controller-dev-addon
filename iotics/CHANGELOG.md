@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.32] - 2024-11-03
+### Changed
+- Update logs (cards, logs, user notifications)
+
 ## [0.12.31] - 2024-11-03
 ### Changed
 - Update logs (groups)
