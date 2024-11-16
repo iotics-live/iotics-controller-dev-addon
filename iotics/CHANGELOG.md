@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.34] - 2024-11-16
+### Changed
+- Add full automation details to `GET /automations/users` API
+- Fix issue - respect excluded to notify properties
+- Fix issue - do not throw on create snapshot
+- Fix issues - import automations page is empty
+- Fix issue - incorrect assignment of groups to rooms
+
+## [0.12.33] - 2024-11-16
+### Changed
+- Technical commit (restructure notifications)
+
 ## [0.12.32] - 2024-11-03
 ### Changed
 - Update logs (cards, logs, user notifications)
