@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.36] - 2024-11-19
+### Changed
+- Fix issue - login doesn't work
+- Fix issue - `GET /automations/users` performance Improvements
+
 ## [0.12.35] - 2024-11-18
 ### Changed
 - Fix issue - `GET /automations/users` responds with 500 error
