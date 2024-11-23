@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.37] - 2024-11-22
+### Changed
+- Fix issue - incorrect theme messages
+
 ## [0.12.36] - 2024-11-19
 ### Changed
 - Fix issue - login doesn't work
