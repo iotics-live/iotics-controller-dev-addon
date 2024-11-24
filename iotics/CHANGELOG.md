@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.38] - 2024-11-24
+### Changed
+- Update call service messages
+
 ## [0.12.37] - 2024-11-22
 ### Changed
 - Fix issue - incorrect theme messages
