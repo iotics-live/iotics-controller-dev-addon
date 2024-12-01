@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.39] - 2024-12-01
+### Changed
+- Update NLog library
+- Update FirebaseAdmin library
+- Fix issue - push notifications are not delivered
+
 ## [0.12.38] - 2024-11-24
 ### Changed
 - Update call service messages
