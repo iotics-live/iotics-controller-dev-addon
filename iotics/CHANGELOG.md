@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.41] - 2024-12-07
+### Changed
+- Disable Admin account for controller UI
+- Syncronize user names and passwords for location admin accounts
+
 ## [0.12.40] - 2024-12-07
 ### Changed
 - Add groups information to card response
