@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.40] - 2024-12-07
+### Changed
+- Add groups information to card response
+
 ## [0.12.39] - 2024-12-01
 ### Changed
 - Update NLog library
