@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.42] - 2024-12-07
+### Changed
+- Fix issue - location admin can't login
+
 ## [0.12.41] - 2024-12-07
 ### Changed
 - Disable Admin account for controller UI
