@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.45] - 2024-12-09
+### Changed
+- Add password reset functionality
+
 ## [0.12.44] - 2024-12-08
 ### Changed
 - Add email verification functionality
