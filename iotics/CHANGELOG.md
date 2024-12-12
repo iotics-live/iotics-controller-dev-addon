@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.46] - 2024-12-11
+### Changed
+- Change reset password page title
+
 ## [0.12.45] - 2024-12-09
 ### Changed
 - Add password reset functionality
