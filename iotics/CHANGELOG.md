@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.49] - 2024-12-14
+### Changed
+- Add API for images 
+
 ## [0.12.48] - 2024-12-14
 ### Changed
 - Re-work reset password functionality
