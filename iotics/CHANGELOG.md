@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.47] - 2024-12-14
+### Changed
+- Change location passwords reminder notification
+
 ## [0.12.46] - 2024-12-11
 ### Changed
 - Change reset password page title
