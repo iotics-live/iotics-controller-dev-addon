@@ -7,10 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.51] - 2024-12-16
+### Changed
+- Revert allow admin user to skip location passcode for `GET /user_list`
+
 ## [0.12.50] - 2024-12-14
 ### Changed
 - Allow admin user to skip location passcode for `GET /user_list`
-
 
 ## [0.12.49] - 2024-12-14
 ### Changed
