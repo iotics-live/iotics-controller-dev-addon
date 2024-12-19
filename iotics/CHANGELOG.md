@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.52] - 2024-12-18
+### Changed
+- Configure `iotics.live` domain for email notifications
+
 ## [0.12.51] - 2024-12-16
 ### Changed
 - Revert allow admin user to skip location passcode for `GET /user_list`
