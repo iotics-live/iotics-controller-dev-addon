@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.53] - 2024-12-21
+### Changed
+- Minor changes to user management
+
 ## [0.12.52] - 2024-12-18
 ### Changed
 - Configure `iotics.live` domain for email notifications
