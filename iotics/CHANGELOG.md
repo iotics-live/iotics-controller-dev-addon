@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.55] - 2024-12-21
+### Changed
+- Update images API
+
+## [0.12.54] - 2024-12-21
+### Changed
+- Add location admins API for smooth transition between locations for Global Admin role
+
 ## [0.12.53] - 2024-12-21
 ### Changed
 - Minor changes to user management
