@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.57] - 2024-12-23
+### Changed
+- Fix issue - wrong email templates paths
+
 ## [0.12.56] - 2024-12-22
 ### Changed
 - Fix issue - update operation (Core, Supervisor, OS, add-on) return HTTP Status code 400 
