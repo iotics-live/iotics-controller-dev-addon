@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.58] - 2024-12-23
+### Changed
+- Fix issue - email links missing port
+
 ## [0.12.57] - 2024-12-23
 ### Changed
 - Fix issue - wrong email templates paths
