@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.59] - 2024-12-24
+### Changed
+- Fix issue - email links contains incorrect port
+- Fix issue - null reference exception in `/automations/users`
+
+
 ## [0.12.58] - 2024-12-23
 ### Changed
 - Fix issue - email links missing port
