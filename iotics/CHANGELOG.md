@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.60] - 2024-12-26
+### Changed
+- Make location not required for `/users/location_passwords_reminder` API
+
 ## [0.12.59] - 2024-12-24
 ### Changed
 - Fix issue - email links contains incorrect port
