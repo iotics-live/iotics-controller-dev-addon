@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.63] - 2024-12-29
+### Changed
+- Update error messages for reset passcodes
+
 ## [0.12.62] - 2024-12-29
 ### Changed
 - Allow non-admins to call `/appLogs` API
