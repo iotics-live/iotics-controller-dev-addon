@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.65] - 2025-01-01
+### Changed
+- Add email removal confirmation
+
 ## [0.12.64] - 2025-01-01
 ### Changed
 - Add API to uninstall iotics add-on
