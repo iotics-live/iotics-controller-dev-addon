@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.66] - 2025-01-03
+### Changed
+- Update API `/pages/{roomId}` to filter cards that belong to groups
+
 ## [0.12.65] - 2025-01-01
 ### Changed
 - Add email removal confirmation
