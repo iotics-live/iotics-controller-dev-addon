@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.68] - 2025-01-09
+### Changed
+- Automatically add a group to room once adding a new card (if applicable)
+
 ## [0.12.67] - 2025-01-03
 ### Changed
 - Automatically reload add-ons during API `/statistics/home_assistant_core` call
