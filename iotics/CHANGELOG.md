@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.71] - 2025-01-19
+### Changed
+- Fix issue - automatic group management upon entities updates (part 3)
+
+## [0.12.70] - 2025-01-19
+### Changed
+- Fix issue - automatic group management upon entities updates (part 2)
+
+## [0.12.69] - 2025-01-19
+### Changed
+- Fix issue - automatic group management upon entities updates
+
 ## [0.12.68] - 2025-01-09
 ### Changed
 - Automatically add a group to room once adding a new card (if applicable)
