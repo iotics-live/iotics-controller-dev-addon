@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.72] - 2025-01-26
+### Changed
+- Add automations sharing
+- Fix issue - delete database on iotics uninstall
+
 ## [0.12.71] - 2025-01-19
 ### Changed
 - Fix issue - automatic group management upon entities updates (part 3)
