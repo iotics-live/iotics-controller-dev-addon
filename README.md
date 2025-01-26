@@ -1,41 +1,61 @@
-## About
+# Iotics Controller Add-on  
+![Iotics Dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)  
 
-Share & control your Home Assistant OS with iotics' intuitive user interface. iotics aims to introduce Home Assistant to home members while preserving user control and privacy.
+## About  
+The **Iotics Controller Add-on** simplifies sharing and managing your Home Assistant OS with an intuitive user interface. Designed to make Home Assistant accessible to all household members, Iotics emphasizes user control and privacy to deliver a seamless, secure smart home experience.  
 
+---
 
-![iotics dashboard](https://github.com/iotics-live/iotics-Controller/blob/master/iotics/Images/screenshot-003.png?raw=true)
+## Features  
+- **Multiple Instance Support**: Manage multiple Home Assistant instances from a single platform.  
+- **User Permissions**: Assign and customize access levels to ensure privacy and security for all users.  
+- **Personalized Dashboards**: Build tailored dashboards for individual users' needs.  
+- **Customizable Interface**: Fine-tune the UI to match your preferences and style.  
+- **History & Statistics**: Monitor device usage and analyze historical trends for better insights.  
+- **Event Notifications**: Stay up-to-date with real-time alerts and updates on key events.  
+- **Local and Private**: Operates entirely locally, keeping your data secure and private.  
+- **Secure Remote Access**: Access your smart home remotely with confidence and peace of mind.  
 
-## Features
+---
 
-- Multiple instance support
-- User share permissions
-- Personalized dashboards
-- Customizable UI
-- History & statistics
-- Event notifications
-- Local and private
-- Secure remote access
+## Installation  
 
-## Installation
+Setting up the Iotics Controller Add-on is quick and easy. Follow these steps:  
 
-The installation of this add-on is pretty straightforward and not different in
-comparison to installing any other Home Assistant add-on.
+1. **Add the Iotics Repository**   
+     - Open **Settings > Add-ons > Add-on Store**, click the menu (three dots), and select **Add repository**.  
+     - Enter the repository URL:  
+       ```text
+       https://github.com/iotics-live/iotics-Controller
+       ```  
 
-1. Click the Home Assistant My button below to add the add-on on your Home
-   Assistant instance. [![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.](https://my.home-assistant.io/badges/supervisor_addon.svg)](https://my.home-assistant.io/redirect/supervisor_addon/?repository_url=https%3A%2F%2Fgithub.com%2Fiotics-live%2Fiotics-Controller&addon=iotics+Controller)
-2. Click the "Install" button to install the add-on.
-3. Start the "iotics Controller" add-on.
-4. Login to the iotics admin interface and complete the setup process.
+2. **Install the Iotics Controller**  
+   - Locate the Iotics Controller in the list of available add-ons and click on it.  
+   - Click **Install** to start the installation process. (Installation time may vary based on network speed.)  
 
-## Default admin interface credentials (beta)
-- Username: admin
-- Password: password
-- Port: 4443
+3. **Start the Iotics Controller Add-on**  
+   - Once installation is complete, start the add-on from the Home Assistant interface.  
 
-Notice: This add-on currently serves as a backend for the iotics mobile & tablet applications. A webapp version is currently under development.
+4. **Download the Iotics Companion App**  
+   - To control your Iotics Add-on from your mobile or tablet, download the Iotics Companion App:
 
-## Support
+     - **[Download on the App Store](https://apps.apple.com/us/app/iotics-for-home-assistant/id1534768325)**
+     - **[Get it on Google Play](https://play.google.com/store/apps/details?id=live.iotics.iotics&pli=1)** 
+     - **[Explore it on AppGallery](https://appgallery.huawei.com/app/C106708521)**
 
-- All suggestions are welcome [here](https://github.com/iotics-live/iotics-Controller/pulls). 
-- Wanna help us squash those pesky bugs? feel free to report your findings [here](https://github.com/iotics-live/iotics-Controller/issues). 
-- Prefer to grab the docker image? You can find it [here](https://hub.docker.com/repository/docker/iotics/iotics-controller/general)
+---
+
+### Beta Notice  
+The Iotics Controller Add-on is currently in **open beta** and supports the Home Assistant Operating System (HAOS) exclusively. It serves as the backend for the Iotics mobile and tablet applications. 
+
+---
+
+## Support  
+
+We’re here to help! If you have any feedback, ideas, or issues, please reach out:  
+
+- **Feature Suggestions**: Got an idea to improve Iotics? [Submit your suggestions here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=).  
+- **Bug Reports**: Encountered a problem? [Report bugs here](https://github.com/iotics-live/iotics-Controller/issues/new?assignees=&labels=bug&template=bug_report.md&title=).  
+- **Docker Image**: Prefer Docker? [Download the Iotics Controller image from Docker Hub](https://hub.docker.com/r/iotics/iotics-controller).  
+
+Stay connected and help us improve **Iotics**!
