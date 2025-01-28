@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.74] - 2025-01-28
+### Changed
+- Fix issue - allow all authenticated users to access favourite automations API
+
 ## [0.12.73] - 2025-01-27
 ### Changed
 - Fix issue - allow all users to access automations API
