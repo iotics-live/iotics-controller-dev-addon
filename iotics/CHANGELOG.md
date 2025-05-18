@@ -7,13 +7,108 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## TODO
 
+## [0.12.96] - 2025-05-18
+### Changed
+- Improve `run.sh` script to address [Startup error #12](https://github.com/iotics-live/iotics-Controller/issues/12)
+
+## [0.12.95] - 2025-05-03
+### Changed
+- Add `/server/connect` API to avoid entering 2FA OTP code twice during installation
+
+## [0.12.94] - 2025-04-27
+### Changed
+- Update `run.sh` script to address [Startup errors #10](https://github.com/iotics-live/iotics-Controller/issues/10)
+
+## [0.12.93] - 2025-04-26
+### Changed
+- Update HA login flow to signal MFA code is required
+
+## [0.12.92] - 2025-04-19
+### Changed
+- Fix issue - enable login to HA when 2FA authentication enabled
+
+## [0.12.91] - 2025-04-13
+### Changed
+- Fix issue - new location registration send email confirmation to location owner
+
+## [0.12.90] - 2025-04-13
+### Changed
+- Remove EntityFramework logs
+- Fix issue - new location with user can't be created
+
+## [0.12.89] - 2025-04-10
+### Changed
+- Update Disclaimer for Localtion Password Reminder email
+- Update error message when code is invalid for verify/unlink email
+- Send confirm email notification upon user creation
+
+## [0.12.88] - 2025-04-06
+### Changed
+- Minor changes to texts of verify/remove emails
+
+## [0.12.87] - 2025-04-06
+### Changed
+- Use User ID for login
+- Password reminder text change
+
+## [0.12.86] - 2025-04-05
+### Changed
+- Re-work API for verify/unlink email
+
+## [0.12.85] - 2025-03-30
+### Changed
+- Re-work API for verify and remove email address
+
+## [0.12.84] - 2025-03-02
+### Changed
+- Add move card between rooms API
+
+## [0.12.83] - 2025-02-23
+### Changed
+- Fix issue - delete favourite automations when automation is deleted
+
+## [0.12.82] - 2025-02-15
+### Changed
+- Configure excluded device notification setting during server configuration
+
+## [0.12.81] - 2025-02-09
+### Changed
+- Fix issue - delete automation from favourite when update sharing
+
+## [0.12.80] - 2025-02-08
+### Changed
+- Fix issue - delete automation from favourite when end sharing
+- Fix issue - user can't view created automation
+
+## [0.12.79] - 2025-02-04
+### Changed
+- Fix issue - new wallpapers return 404 response
+
+## [0.12.78] - 2025-02-03
+### Changed
+- Add new wallpapers
+
+## [0.12.77] - 2025-02-01
+### Changed
+- Remove uninstall script (it is not called)
+
+## [0.12.76] - 2025-02-01
+### Changed
+- Fix issue - Null Reference Exception in favourite automations API
+
+## [0.12.75] - 2025-02-01
+### Changed
+- Add uninstall script
+- Fix issue - allow shared automation to be added to favourites
+- Fix issue - delete database during add-on uninstall
+
 ## [0.12.74] - 2025-01-28
 ### Changed
 - Fix issue - allow all authenticated users to access favourite automations API
 
 ## [0.12.73] - 2025-01-27
 ### Changed
-- Fix issue - allow all users to access automations API
+- Fix issue - allow all authenticated users to access automations API
 
 ## [0.12.72] - 2025-01-26
 ### Changed
